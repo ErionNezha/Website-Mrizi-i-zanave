@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&family=Raleway:wght@400;500;600&display=swap');
+html {
+	font-size: 10px;
+	overflow-x: hidden;
+}
+body {
+	background: var(--yellow-1);
+	overflow-x: hidden;
+	visibility: hidden;
+}
+section {
+	padding: 100px 0;
+}
+@media only screen and (max-width: 767px) {
+	section {
+		padding: 50px 0;
+	}
+}
+.container {
+	max-width: 1200px;
+	width: 90%;
+	margin: 0 auto;
+}
+:root {
+	--red-1: #3c1518; /* ngjyra e butonave */
+	--red-2: #8c6865; /* lajme */
+	--red-3: #9e5253; /* ngjyra e text box */
+	--yellow-1: #e1e3a8; /* sfondi */
+	--black-1: #011112; /* ngjyra e shkrimit te madh */
+	--black-2: #011112; /* ngjyra e shkrimit te vogel */
+	--black-3: #011112;
+	--white-1: #fefae0; /* ngjyra e shkrimit ne butona */
+}
+img {
+	width: 100%;
+	height: 100%;
+	object-fit: contain;
+}
+h1,
+h2,
+h3,
+h4 {
+	font-family: Poppins;
+}
+p {
+	font-family: Raleway;
+	font-weight: 400;
+	line-height: 1.4em;
+	font-size: 1.8rem;
+}
+a {
+	display: inline-block;
+	text-decoration: none;
+}

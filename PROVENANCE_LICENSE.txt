@@ -1,0 +1,27 @@
+PROVENIENCA DHE LICENCA / PROVENANCE & LICENSE
+===============================================
+
+Kodi burim në dosjen `original/` është mbledhur nga burime publike
+(postime në kanale Telegram me kode të shpërndara lirisht). Autori
+origjinal dhe licenca origjinale e secilit projekt NUK janë verifikuar.
+
+- Nuk pretendohet autorësi ekskluzive mbi kodin e palëve të treta.
+- Nëse je autori origjinal i ndonjë projekti këtu dhe dëshiron
+  attribution të saktë, korrigjim licence, ose heqjen e tij,
+  të lutem kontakto.
+
+Faqja demonstruese (`index.html`) — live view + paneli i kodit —
+dhe përshtatja/pastrimi për web u ndërtuan nga Erion Nezha, 2026.
+
+---
+The source code under `original/` was collected from public sources
+(Telegram channels sharing code freely). The original author and
+original license of each project have NOT been verified.
+
+- No exclusive authorship is claimed over third-party code.
+- If you are the original author of any project here and want
+  correct attribution, a license correction, or removal,
+  please get in touch.
+
+The showcase page (`index.html`) — live view + code panel —
+and the web adaptation were built by Erion Nezha, 2026.

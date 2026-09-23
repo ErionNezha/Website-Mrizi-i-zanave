@@ -1,4 +1,13 @@
-# Restaurant-Website
-![Pamje nga demo](screenshot.png)
-https://github.com/ErionNezha/Website-Mrizi-i-zanave/assets/107886961/b69e5787-dd96-4069-a64f-afb1bc7a9154
+# 🍽️ Website Mrizi i Zanave
 
+Created by **Erion Nezha**
+
+> Faqe web për restorantin "Mrizi i Zanave" — menu, rezervime dhe kontakt.
+
+![Pamje nga demo](screenshot.png)
+
+**🔴 Live demo:** https://erionnezha.github.io/Website-Mrizi-i-zanave/
+
+## 📄 Licenca
+
+Copyright © 2026 Erion Nezha. All rights reserved. Shih [LICENSE](LICENSE).
